@@ -1,1 +1,1 @@
-web: gunicorn app:index.php --log-file -
+web: gunicorn index.php --log-file -
