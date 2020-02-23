@@ -1,1 +1,1 @@
-web: gunicorn apexstats7.wsgi --log-file -
+web: gunicorn app:app --log-file -
