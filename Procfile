@@ -1,1 +1,1 @@
-web: index.php --log-file -
+web: venodr/bin/heroku-php-apache2 
